@@ -1,0 +1,11 @@
+a{
+    cursor: pointer;
+}
+
+.userDetailBox .modal-dialog{
+    z-index: 999;
+}
+
+.userDetailBox .modal{
+    background-color: #00000050;
+}
